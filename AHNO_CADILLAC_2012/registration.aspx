@@ -1,7 +1,19 @@
+<<<<<<< HEAD
 ﻿
 
 testiing is going onnnnn......
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="registration.aspx.cs" Inherits="registration"
+=======
+﻿register the solution ahno and push
+
+thank you
+
+
+
+
+
+%@ Page Language="C#" AutoEventWireup="true" CodeFile="registration.aspx.cs" Inherits="registration"
+>>>>>>> 6802bf842124f014cd525618daf7fecd403b1846
     ValidateRequest="false" %>
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
